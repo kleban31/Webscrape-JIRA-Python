@@ -1,4 +1,11 @@
 <Variables>
   <JIRAURL>
-  </JIRAURL>  
+    https://jira.xyz.com/login.jsp
+  </JIRAURL>
+  <user>
+    username
+  </user>
+  <password>
+    password123
+  </password>
 </Variables>
