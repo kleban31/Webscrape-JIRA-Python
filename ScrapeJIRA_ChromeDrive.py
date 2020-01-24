@@ -7,36 +7,30 @@ import json
 from selenium import webdriver
 from datetime import datetime
 
-vxml=BeautifulSoup('Variables.xml')
+with open("Variables.xml", "r") as x:
+    vxml = bs(x,'lxml')
 
-url = ''
+vxml=bs('Variables.xml')
 
-########################
-UseDriver = "true"
-NewURLisFile ="false"
-######################
+url = vxml.find('LoginURL').string
+surl=vxml.find('SearchURL').string
+uname=vxml.find('user').string
+pword=vxml.find('password').string
 
-if UseDriver == "true":
-    driver = webdriver.Chrome()
 
-    driver.get(url)
-    def login():
-        driver.find_element_by_id("login-form-username").send_keys('mkleban')
-        driver.find_element_by_id("login-form-password").send_keys('AMCamc420$')
-        driver.find_element_by_id("login-form-submit").click()
-    login()
+driver = webdriver.Chrome()
 
-    driver.get(NewURL)
-    html = driver.page_source
-    content = bs(html, features='lxml')
-else:
-    if NewURLisFile=="true":
-        with open(NewURL,"r") as o:
-            html = o.read()
-        content = bs(html)
-    else:
-        response = rq.get(NewURL)
-        content = bs(response.content,"html.parser")
+driver.get(url)
+def login():
+    driver.find_element_by_id("login-form-username").send_keys(uname)
+    driver.find_element_by_id("login-form-password").send_keys(pword)
+    driver.find_element_by_id("login-form-submit").click()
+login()
+
+driver.get(surl)
+html = driver.page_source
+content = bs(html, features='lxml')
+
 
 
 
