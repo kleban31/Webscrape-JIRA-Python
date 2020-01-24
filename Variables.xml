@@ -1,11 +1,14 @@
 <Variables>
-  <JIRAURL>
+  <LoginURL>
     https://jira.xyz.com/login.jsp
-  </JIRAURL>
+  </LoginURL>
   <user>
     username
   </user>
   <password>
     password123
   </password>
+  <SearchURL>
+    WWW.SEARCHURL.com
+  </SearchURL>
 </Variables>
