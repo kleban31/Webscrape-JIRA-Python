@@ -1,0 +1,1037 @@
+[
+    {
+        "Key": "BISD-4619",
+        "Status": "Open",
+        "Summary": "[AM] Daily System Monitoring (IVR)",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 09/Jan/20 10:01 AM ",
+        "IssueUpdatedOn": " 09/Jan/20 11:10 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4618",
+        "Status": "Open",
+        "Summary": "Reports Not Going Out",
+        "Reporter": "Hengqiao Zhao",
+        "IssueCreatedOn": " 09/Jan/20 9:36 AM ",
+        "IssueUpdatedOn": " 09/Jan/20 11:10 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4616",
+        "Status": "Triage",
+        "Summary": "Fwd: Tableau VA Disenrollments data",
+        "Reporter": "Dale Paustian",
+        "IssueCreatedOn": " 08/Jan/20 11:47 PM ",
+        "IssueUpdatedOn": " 09/Jan/20 11:06 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4615",
+        "Status": "Triage",
+        "Summary": "Fwd: Tableau VA census totals discrepancy for 1/6 & 1/7",
+        "Reporter": "Dale Paustian",
+        "IssueCreatedOn": " 08/Jan/20 11:46 PM ",
+        "IssueUpdatedOn": " 09/Jan/20 11:06 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4614",
+        "Status": "Open",
+        "Summary": "[Product] Weekly Tablet Pilot Report Request",
+        "Reporter": "Amanda Boles",
+        "IssueCreatedOn": " 08/Jan/20 5:11 PM ",
+        "IssueUpdatedOn": " 08/Jan/20 5:19 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4613",
+        "Status": "Triage",
+        "Summary": "[Customer] evicore - add Medication Adherence - Tableau Productivity Report",
+        "Reporter": "Customer Relations",
+        "IssueCreatedOn": " 08/Jan/20 3:36 PM ",
+        "IssueUpdatedOn": " 09/Jan/20 11:09 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4612",
+        "Status": "Triage",
+        "Summary": "[AM] INTERNAL GHS Tableau IVR Dashboard",
+        "Reporter": "Michael Kleban",
+        "IssueCreatedOn": " 08/Jan/20 11:14 AM ",
+        "IssueUpdatedOn": " 08/Jan/20 11:14 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4611",
+        "Status": "Awaiting More Info",
+        "Summary": "[Customer] Lehigh Valley Disenrolled Patients List - Add \"Weighted Compliance\"",
+        "Reporter": "Keith Schieler",
+        "IssueCreatedOn": " 08/Jan/20 9:50 AM ",
+        "IssueUpdatedOn": " 08/Jan/20 11:10 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4610",
+        "Status": "Awaiting More Info",
+        "Summary": "AMC St. Mary\u00e2\u20ac\u2122s  Data Report request",
+        "Reporter": "Lisa Griffin",
+        "IssueCreatedOn": " 07/Jan/20 12:38 PM ",
+        "IssueUpdatedOn": " 07/Jan/20 3:20 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4607",
+        "Status": "Done",
+        "Summary": "[Cust] eviCore -  Update Schedule for CM Assignment report",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 06/Jan/20 6:54 PM ",
+        "IssueUpdatedOn": " 07/Jan/20 2:57 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4606",
+        "Status": "Done",
+        "Summary": "[AM] NAMM TOC - Readmissions Page not populating for Nov & Dec",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 06/Jan/20 12:04 PM ",
+        "IssueUpdatedOn": " 08/Jan/20 11:14 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4605",
+        "Status": "Done",
+        "Summary": "LVHN Productivity Report",
+        "Reporter": "Keith Schieler",
+        "IssueCreatedOn": " 06/Jan/20 9:38 AM ",
+        "IssueUpdatedOn": " 06/Jan/20 11:11 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4604",
+        "Status": "Done",
+        "Summary": "[Customer] GHS - Cancel Report Request",
+        "Reporter": "Keith Schieler",
+        "IssueCreatedOn": " 06/Jan/20 9:10 AM ",
+        "IssueUpdatedOn": " 06/Jan/20 2:15 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4603",
+        "Status": "In Progress",
+        "Summary": "[Customer] Geisinger Report Request - add MRN/Patient ID to Disenrollment Report",
+        "Reporter": "Keith Schieler",
+        "IssueCreatedOn": " 06/Jan/20 9:07 AM ",
+        "IssueUpdatedOn": " 09/Jan/20 11:03 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4602",
+        "Status": "Done",
+        "Summary": "[AM] Update SharePoint with latest NAMM Dashboards",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 06/Jan/20 9:03 AM ",
+        "IssueUpdatedOn": " 06/Jan/20 1:06 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4601",
+        "Status": "Done",
+        "Summary": "[NAMM] Bad/Incorrect Phone numbers - Priority request",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 03/Jan/20 9:41 AM ",
+        "IssueUpdatedOn": " 03/Jan/20 12:37 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4600",
+        "Status": "In Progress",
+        "Summary": "[AM] NAMM Census Growth Questions",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 02/Jan/20 1:40 PM ",
+        "IssueUpdatedOn": " 03/Jan/20 11:38 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4599",
+        "Status": "Done",
+        "Summary": "[Finance] December 2019 Billing",
+        "Reporter": "David Schuster",
+        "IssueCreatedOn": " 02/Jan/20 12:46 PM ",
+        "IssueUpdatedOn": " 02/Jan/20 6:06 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4598",
+        "Status": "Done",
+        "Summary": "[Customer] Geneia Census Dashboard - Fix Email Address in the Recipients",
+        "Reporter": "Keith Schieler",
+        "IssueCreatedOn": " 02/Jan/20 12:05 PM ",
+        "IssueUpdatedOn": " 03/Jan/20 4:59 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4596",
+        "Status": "Done",
+        "Summary": "[Customer] UHC Tx - Set up Census & Adherence Dashboard for UHC Tx - INTERNALLy for now",
+        "Reporter": "Keith Schieler",
+        "IssueCreatedOn": " 01/Jan/20 11:20 AM ",
+        "IssueUpdatedOn": " 03/Jan/20 2:09 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4595",
+        "Status": "Done",
+        "Summary": "[Customer] GHS - Set up Census & Adherence Dashboard for Geisinger - INTERNALLy for now",
+        "Reporter": "Keith Schieler",
+        "IssueCreatedOn": " 01/Jan/20 11:19 AM ",
+        "IssueUpdatedOn": " 03/Jan/20 2:09 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4593",
+        "Status": "Triage",
+        "Summary": "[Customer] NAMM - Provide all patient info for patient that was on PMNI file",
+        "Reporter": "Customer Relations",
+        "IssueCreatedOn": " 26/Dec/19 12:46 PM ",
+        "IssueUpdatedOn": " 07/Jan/20 12:20 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4592",
+        "Status": "Done",
+        "Summary": "[Customer] eviCore Active Members - Add Recipient",
+        "Reporter": "Customer Relations",
+        "IssueCreatedOn": " 30/Dec/19 2:40 PM ",
+        "IssueUpdatedOn": " 31/Dec/19 1:14 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4590",
+        "Status": "In Progress",
+        "Summary": "[Clinical] Analysis of Weight Alert Resolution",
+        "Reporter": "Doreen",
+        "IssueCreatedOn": " 24/Dec/19 9:59 AM ",
+        "IssueUpdatedOn": " 26/Dec/19 8:58 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4588",
+        "Status": "Done",
+        "Summary": "[AM] Add Keith to Report Distributions",
+        "Reporter": "Michael Kleban",
+        "IssueCreatedOn": " 20/Dec/19 1:18 PM ",
+        "IssueUpdatedOn": " 31/Dec/19 1:14 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4587",
+        "Status": "Done",
+        "Summary": "[Customer] Geneia - User Report with Care Manager - Part 2",
+        "Reporter": "Keith Schieler",
+        "IssueCreatedOn": " 20/Dec/19 11:08 AM ",
+        "IssueUpdatedOn": " 02/Jan/20 11:51 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4585",
+        "Status": "Done",
+        "Summary": "[Customer] LVHN - Workaround for CC Column Addition Request",
+        "Reporter": "Keith Schieler",
+        "IssueCreatedOn": " 18/Dec/19 2:55 PM ",
+        "IssueUpdatedOn": " 30/Dec/19 4:11 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4578",
+        "Status": "Done",
+        "Summary": "[Customer] New DIVISION for eviCore 01.01.2020.",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 17/Dec/19 10:22 AM ",
+        "IssueUpdatedOn": " 03/Jan/20 2:07 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4564",
+        "Status": "Done",
+        "Summary": "[NAMM] NAMM Additional Opportunities & Shared Risk Members",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 12/Dec/19 3:17 PM ",
+        "IssueUpdatedOn": " 10/Jan/20 12:48 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4550",
+        "Status": "Triage",
+        "Summary": "[Customer] eviCore - Productivity Dashboard not reflecting all activity in Care Console",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 03/Dec/19 4:22 PM ",
+        "IssueUpdatedOn": " 06/Dec/19 5:54 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4549",
+        "Status": "Done",
+        "Summary": "[Cust] GHS - Update Distribution for Report",
+        "Reporter": "Keith Schieler",
+        "IssueCreatedOn": " 03/Dec/19 12:24 PM ",
+        "IssueUpdatedOn": " 18/Dec/19 1:12 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4546",
+        "Status": "Done",
+        "Summary": "[Customer] LVHN - Reviews Report",
+        "Reporter": "Keith Schieler",
+        "IssueCreatedOn": " 03/Dec/19 9:18 AM ",
+        "IssueUpdatedOn": " 02/Jan/20 11:56 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4524",
+        "Status": "Awaiting More Info",
+        "Summary": "[Customer] eviCore - Annual Report",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 19/Nov/19 12:01 PM ",
+        "IssueUpdatedOn": " 19/Nov/19 2:23 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4517",
+        "Status": "Done",
+        "Summary": "[Customer] Geneia - List of Active Patients and Primary CM",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 15/Nov/19 1:18 PM ",
+        "IssueUpdatedOn": " 03/Jan/20 1:36 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4512",
+        "Status": "Triage",
+        "Summary": "[Customer] GHS - Changes to Tableau Dashboard - Phase 2",
+        "Reporter": "Michael Kleban",
+        "IssueCreatedOn": " 08/Nov/19 3:03 PM ",
+        "IssueUpdatedOn": " 23/Dec/19 12:28 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4510",
+        "Status": "Awaiting More Info",
+        "Summary": "[PS] Tableau Metrics - Consolidate Priority Metrics from PS Dashboards",
+        "Reporter": "Customer Relations",
+        "IssueCreatedOn": " 07/Nov/19 11:04 AM ",
+        "IssueUpdatedOn": " 05/Dec/19 4:44 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4500",
+        "Status": "Backlog",
+        "Summary": "[Clinical] Weight Variance by Patient Report Weekly",
+        "Reporter": "Michael Kleban",
+        "IssueCreatedOn": " 30/Oct/19 4:36 PM ",
+        "IssueUpdatedOn": " 04/Dec/19 8:48 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4499",
+        "Status": "Done",
+        "Summary": "[Customer] GHS - Exclude LIFE patients from Non Compliance Report to CC&I",
+        "Reporter": "Michael Kleban",
+        "IssueCreatedOn": " 28/Oct/19 2:28 PM ",
+        "IssueUpdatedOn": " 11/Nov/19 2:22 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4497",
+        "Status": "Done",
+        "Summary": "[Clinical] UHC TX - Time to Delivery report request",
+        "Reporter": "Kay Lattin",
+        "IssueCreatedOn": " 25/Oct/19 2:12 PM ",
+        "IssueUpdatedOn": " 14/Nov/19 9:08 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4495",
+        "Status": "Triage",
+        "Summary": "[Customer] evicore - IVR to Bad Number Alert",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 24/Oct/19 8:59 AM ",
+        "IssueUpdatedOn": " 06/Dec/19 4:57 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4493",
+        "Status": "Triage",
+        "Summary": "AMC Health Non Compliance Report/ Do we Generate one for LVHN ?",
+        "Reporter": "Customer Relations",
+        "IssueCreatedOn": " 23/Oct/19 2:13 PM ",
+        "IssueUpdatedOn": " 24/Oct/19 12:41 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4489",
+        "Status": "Awaiting More Info",
+        "Summary": "Geisinger HF weight parameters/alert rates/outcome comparison",
+        "Reporter": "Kay Lattin",
+        "IssueCreatedOn": " 18/Oct/19 1:53 PM ",
+        "IssueUpdatedOn": " 02/Jan/20 11:00 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4484",
+        "Status": "Done",
+        "Summary": "[AM] NAMM PCP List - need by tomorrow",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 16/Oct/19 1:51 PM ",
+        "IssueUpdatedOn": " 30/Oct/19 5:17 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4480",
+        "Status": "Done",
+        "Summary": "[QA] - eviCore/NAMM - HIPPA violation - eviCore TOC Dashboard contained NAMM data",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 11/Oct/19 11:44 AM ",
+        "IssueUpdatedOn": " 31/Oct/19 10:15 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4473",
+        "Status": "Done",
+        "Summary": "GHS Report request Kay Lattin -Weight parameters analysis update",
+        "Reporter": "Kay Lattin",
+        "IssueCreatedOn": " 07/Oct/19 11:09 AM ",
+        "IssueUpdatedOn": " 24/Oct/19 6:39 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4454",
+        "Status": "Done",
+        "Summary": "[Customer] NAMM - Overall RPM Readmission Rate by Program/Year & A1C Results",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 18/Sep/19 12:39 PM ",
+        "IssueUpdatedOn": " 09/Oct/19 10:53 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4448",
+        "Status": "Done",
+        "Summary": "NAMM Enrollment Worklist - Add recipient",
+        "Reporter": "Customer Relations",
+        "IssueCreatedOn": " 16/Sep/19 10:00 AM ",
+        "IssueUpdatedOn": " 01/Oct/19 1:42 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4447",
+        "Status": "Done",
+        "Summary": "[PS] Installs Shipped To Client Worklist - Add CHMG to report",
+        "Reporter": "Customer Relations",
+        "IssueCreatedOn": " 16/Sep/19 10:00 AM ",
+        "IssueUpdatedOn": " 02/Dec/19 3:43 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4442",
+        "Status": "Done",
+        "Summary": "UHC TX reports distribution list-Please remove Lionyel Johnson",
+        "Reporter": "Customer Relations",
+        "IssueCreatedOn": " 11/Sep/19 8:19 AM ",
+        "IssueUpdatedOn": " 25/Sep/19 11:46 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4441",
+        "Status": "Done",
+        "Summary": "[Customer] Geisinger Daily Non Compliance Report - Add recipient",
+        "Reporter": "Customer Relations",
+        "IssueCreatedOn": " 09/Sep/19 10:48 AM ",
+        "IssueUpdatedOn": " 27/Sep/19 2:20 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4438",
+        "Status": "Done",
+        "Summary": "[AM] NAMM - Find Patients w/ High Risk, eligible Dx, but No Claims",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 08/Sep/19 9:44 AM ",
+        "IssueUpdatedOn": " 03/Jan/20 12:36 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4436",
+        "Status": "Done",
+        "Summary": "[PS] error on install lags dashboard - % Closed <= 7BD",
+        "Reporter": "Johanna Georgilas",
+        "IssueCreatedOn": " 03/Sep/19 5:01 PM ",
+        "IssueUpdatedOn": " 18/Sep/19 4:10 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4433",
+        "Status": "Done",
+        "Summary": "[Clinical] Question around Multi-Day Analysis",
+        "Reporter": "Susan Schultz-Miller",
+        "IssueCreatedOn": " 03/Sep/19 1:02 PM ",
+        "IssueUpdatedOn": " 09/Oct/19 2:08 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4432",
+        "Status": "Backlog",
+        "Summary": "[PS] Create new view for VA Support Tickets in Tableau",
+        "Reporter": "Johanna Georgilas",
+        "IssueCreatedOn": " 03/Sep/19 1:01 PM ",
+        "IssueUpdatedOn": " 04/Sep/19 3:50 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4422",
+        "Status": "In Progress",
+        "Summary": "[AM] NAMM Commercial Analysis and expansion of MA analysis",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 26/Aug/19 9:44 AM ",
+        "IssueUpdatedOn": " 27/Dec/19 12:22 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4385",
+        "Status": "Done",
+        "Summary": "[PS] VA Support - investigate First Touch Resolution",
+        "Reporter": "Johanna Georgilas",
+        "IssueCreatedOn": " 06/Aug/19 1:11 PM ",
+        "IssueUpdatedOn": " 23/Aug/19 2:11 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4382",
+        "Status": "Done",
+        "Summary": "[Clinical] NAMM TCM_Daily_NoNotes_4_Alerts - Delayed on Thursdays",
+        "Reporter": "Susan Schultz-Miller",
+        "IssueCreatedOn": " 02/Aug/19 2:41 PM ",
+        "IssueUpdatedOn": " 17/Sep/19 10:29 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4362",
+        "Status": "Done",
+        "Summary": "[Customer] NAMM TOC Dashboard Fix",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 23/Jul/19 3:40 PM ",
+        "IssueUpdatedOn": " 07/Aug/19 10:46 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4357",
+        "Status": "Backlog",
+        "Summary": "[VA] Update titles for AM and ISCSS - Back end",
+        "Reporter": "Michael Kleban",
+        "IssueCreatedOn": " 22/Jul/19 5:32 PM ",
+        "IssueUpdatedOn": " 22/Jul/19 5:33 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4343",
+        "Status": "Done",
+        "Summary": "[Customer] eviCore - Send weekly TOC Dashboard (it's late)",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 09/Jul/19 4:54 PM ",
+        "IssueUpdatedOn": " 24/Jul/19 2:29 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4342",
+        "Status": "Done",
+        "Summary": "[Customer] Request to send externally to BCBSM Census Dashboard",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 09/Jul/19 1:26 PM ",
+        "IssueUpdatedOn": " 21/Oct/19 11:47 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4319",
+        "Status": "Done",
+        "Summary": "[NAMM] PCP Referral - Identification Exclusion Reason",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 24/Jun/19 3:05 PM ",
+        "IssueUpdatedOn": " 08/Jul/19 3:48 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4316",
+        "Status": "Done",
+        "Summary": "[Customer] GHS - Get list with patient info for COPD IVR patients",
+        "Reporter": "Kay Lattin",
+        "IssueCreatedOn": " 21/Jun/19 1:18 PM ",
+        "IssueUpdatedOn": " 11/Jul/19 4:18 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4305",
+        "Status": "Done",
+        "Summary": "[Clincal] NAMM Incentives Report - Completed Installations",
+        "Reporter": "Christine Sapienza",
+        "IssueCreatedOn": " 18/Jun/19 2:46 PM ",
+        "IssueUpdatedOn": " 04/Jul/19 4:18 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4297",
+        "Status": "Done",
+        "Summary": "BISD-4295                BISD-4295 - Item 2",
+        "Reporter": "Michael Kleban",
+        "IssueCreatedOn": " 18/Jun/19 11:32 AM ",
+        "IssueUpdatedOn": " 08/Jul/19 4:21 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4292",
+        "Status": "Done",
+        "Summary": "[Customer] Add recipient to eviCore Worklist report",
+        "Reporter": "Customer Relations",
+        "IssueCreatedOn": " 14/Jun/19 6:17 PM ",
+        "IssueUpdatedOn": " 04/Jul/19 11:18 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4284",
+        "Status": "Done",
+        "Summary": "[Sales] Update Account Manager assignments in Tableau",
+        "Reporter": "Dale Paustian",
+        "IssueCreatedOn": " 12/Jun/19 4:00 PM ",
+        "IssueUpdatedOn": " 27/Jun/19 4:38 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4274",
+        "Status": "Done",
+        "Summary": "[VA] QA Check \"Census Report\" page",
+        "Reporter": "Hengqiao Zhao",
+        "IssueCreatedOn": " 03/Jun/19 4:40 PM ",
+        "IssueUpdatedOn": " 18/Jun/19 9:22 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4272",
+        "Status": "Done",
+        "Summary": "[NAMM] Invoiced Lost Equipment Analysis Request",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 31/May/19 11:21 AM ",
+        "IssueUpdatedOn": " 26/Jun/19 1:30 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4263",
+        "Status": "Done",
+        "Summary": "[VA] Add Census by CC group",
+        "Reporter": "Rafael Tarantini",
+        "IssueCreatedOn": " 29/May/19 4:46 PM ",
+        "IssueUpdatedOn": " 12/Jun/19 5:16 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4261",
+        "Status": "Backlog",
+        "Summary": "[AM] Installation Lag Analysis Needed for UHC",
+        "Reporter": "Lisa Griffin",
+        "IssueCreatedOn": " 23/May/19 7:33 AM ",
+        "IssueUpdatedOn": " 06/Dec/19 4:50 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4255",
+        "Status": "Backlog",
+        "Summary": "[Customer] Create WIP Report for UHC of Texas",
+        "Reporter": "Lisa Griffin",
+        "IssueCreatedOn": " 20/May/19 2:48 PM ",
+        "IssueUpdatedOn": " 06/Dec/19 4:50 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4251",
+        "Status": "Done",
+        "Summary": "eviCore Please ad TOC Admins to AMC Worklist Distribution",
+        "Reporter": "Customer Relations",
+        "IssueCreatedOn": " 14/May/19 11:57 AM ",
+        "IssueUpdatedOn": " 28/May/19 3:11 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4250",
+        "Status": "Done",
+        "Summary": "[Customer] GHS Non Compliance report - Incorrectly flagging patients as Non Compliant",
+        "Reporter": "Customer Relations",
+        "IssueCreatedOn": " 13/May/19 10:44 AM ",
+        "IssueUpdatedOn": " 28/May/19 4:23 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4248",
+        "Status": "Done",
+        "Summary": "[Customer] NAMM - Risk Assessment of Potential Patients for PD Programs",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 14/May/19 10:19 AM ",
+        "IssueUpdatedOn": " 31/May/19 2:31 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4245",
+        "Status": "Done",
+        "Summary": "[Customer] Send eviCore TOC Dashboard (via FTP)",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 14/May/19 8:29 AM ",
+        "IssueUpdatedOn": " 28/May/19 12:29 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4242",
+        "Status": "Backlog",
+        "Summary": "[Clinical] Add nurses to Tableau Reprot",
+        "Reporter": "Susan Schultz-Miller",
+        "IssueCreatedOn": " 10/May/19 7:41 PM ",
+        "IssueUpdatedOn": " 06/Dec/19 4:50 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4239",
+        "Status": "Done",
+        "Summary": "[AM] GHS - Device List",
+        "Reporter": "Kay Lattin",
+        "IssueCreatedOn": " 09/May/19 5:39 PM ",
+        "IssueUpdatedOn": " 27/May/19 3:17 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4237",
+        "Status": "Done",
+        "Summary": "[VA] Reporting Request - New, Active, Returning",
+        "Reporter": "Nesim Bildirici",
+        "IssueCreatedOn": " 09/May/19 1:41 PM ",
+        "IssueUpdatedOn": " 18/Jun/19 2:17 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4236",
+        "Status": "Backlog",
+        "Summary": "[VA] Reporting Request - Care Coordinator Churn",
+        "Reporter": "Rafael Tarantini",
+        "IssueCreatedOn": " 09/May/19 1:35 PM ",
+        "IssueUpdatedOn": " 06/Dec/19 4:50 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4231",
+        "Status": "Backlog",
+        "Summary": "[VA] VA Summary Email for Nesim",
+        "Reporter": "Nesim Bildirici",
+        "IssueCreatedOn": " 07/May/19 5:48 PM ",
+        "IssueUpdatedOn": " 06/Dec/19 4:50 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4222",
+        "Status": "Done",
+        "Summary": "RE: Website Ticker",
+        "Reporter": "Samantha Baker",
+        "IssueCreatedOn": " 01/May/19 12:43 PM ",
+        "IssueUpdatedOn": " 15/May/19 2:51 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4179",
+        "Status": "Backlog",
+        "Summary": "Corporate Scorecard - Split up into separate workbooks",
+        "Reporter": "Michael Kleban",
+        "IssueCreatedOn": " 03/Apr/19 2:32 PM ",
+        "IssueUpdatedOn": " 03/Apr/19 2:32 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4159",
+        "Status": "Done",
+        "Summary": "[Clinical] Configure Reports to Recognize Blues TCM Transfer",
+        "Reporter": "Michael Kleban",
+        "IssueCreatedOn": " 28/Mar/19 11:36 AM ",
+        "IssueUpdatedOn": " 17/Apr/19 1:49 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4158",
+        "Status": "Done",
+        "Summary": "[Customer] Set up AHC with the Census  & Adherence Dashboard",
+        "Reporter": "Lisa Griffin",
+        "IssueCreatedOn": " 28/Mar/19 8:53 AM ",
+        "IssueUpdatedOn": " 16/Apr/19 12:46 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4151",
+        "Status": "Done",
+        "Summary": "Tracking Info Unavailable to AHC",
+        "Reporter": "Rachel Cruz",
+        "IssueCreatedOn": " 20/Mar/19 11:22 AM ",
+        "IssueUpdatedOn": " 28/May/19 6:44 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4145",
+        "Status": "Awaiting More Info",
+        "Summary": "[Customer] NAMM PD Report - Separate Spanish vs. English for IVR by Facility tab",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 18/Mar/19 4:04 PM ",
+        "IssueUpdatedOn": " 24/Oct/19 10:50 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4139",
+        "Status": "Backlog",
+        "Summary": "[Clinical] Review Adherence with Analytics",
+        "Reporter": "Johanna Georgilas",
+        "IssueCreatedOn": " 14/Mar/19 11:19 AM ",
+        "IssueUpdatedOn": " 06/Dec/19 4:56 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4137",
+        "Status": "Backlog",
+        "Summary": "[Clinical] NAMM Diabetics, insulin, blood sugar testing",
+        "Reporter": "Johanna Georgilas",
+        "IssueCreatedOn": " 13/Mar/19 10:30 AM ",
+        "IssueUpdatedOn": " 06/Dec/19 4:50 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4117",
+        "Status": "Done",
+        "Summary": "[AM] Tableau Reports not showing up for Mary",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 04/Mar/19 9:20 AM ",
+        "IssueUpdatedOn": " 19/Mar/19 11:12 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4101",
+        "Status": "Done",
+        "Summary": "[Customer] Refresh NEW NAMM SNF Report",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 18/Feb/19 6:04 PM ",
+        "IssueUpdatedOn": " 05/Mar/19 5:05 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4096",
+        "Status": "Backlog",
+        "Summary": "[AM] Report on new NAMM Spanish IVRs",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 13/Feb/19 12:30 PM ",
+        "IssueUpdatedOn": " 13/Feb/19 5:07 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4082",
+        "Status": "Backlog",
+        "Summary": "[Sales] VA - Profile of typical patient day",
+        "Reporter": "Lisa Roberts",
+        "IssueCreatedOn": " 05/Feb/19 10:07 AM ",
+        "IssueUpdatedOn": " 19/Mar/19 2:47 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4076",
+        "Status": "Backlog",
+        "Summary": "[Customer] GHS - Report Request - Scales and Weight - GaH vs. All Other",
+        "Reporter": "Gaurav Gambhir",
+        "IssueCreatedOn": " 01/Feb/19 12:14 PM ",
+        "IssueUpdatedOn": " 22/Feb/19 1:39 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-3998",
+        "Status": "Backlog",
+        "Summary": "[IT] Create clustered indexes in AMCReports tables that don't have them",
+        "Reporter": "Michael Kleban",
+        "IssueCreatedOn": " 03/Jan/19 11:40 AM ",
+        "IssueUpdatedOn": " 16/Jan/19 10:53 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-3952",
+        "Status": "Backlog",
+        "Summary": "[CEO] Compare VA to GHS Program",
+        "Reporter": "Nesim Bildirici",
+        "IssueCreatedOn": " 17/Dec/18 5:56 PM ",
+        "IssueUpdatedOn": " 08/Feb/19 1:15 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-3927",
+        "Status": "Backlog",
+        "Summary": "[PS] Request For Report-NAMM GMA's On Hold",
+        "Reporter": "Rachel Cruz",
+        "IssueCreatedOn": " 05/Dec/18 1:11 PM ",
+        "IssueUpdatedOn": " 07/Jan/19 1:11 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-3797",
+        "Status": "Backlog",
+        "Summary": "[WH] Request for Report",
+        "Reporter": "Customer Relations",
+        "IssueCreatedOn": " 05/Oct/18 10:03 AM ",
+        "IssueUpdatedOn": " 06/Jan/19 4:49 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-3668",
+        "Status": "Backlog",
+        "Summary": "[Clinical] Set up What-if report for Pulse Oximeter (Oxygen Levels)",
+        "Reporter": "Johanna Georgilas",
+        "IssueCreatedOn": " 14/Aug/18 2:35 PM ",
+        "IssueUpdatedOn": " 28/Nov/18 11:52 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-3638",
+        "Status": "Backlog",
+        "Summary": "[Clinical] add to tableau - Call Activity report",
+        "Reporter": "Johanna Georgilas",
+        "IssueCreatedOn": " 03/Aug/18 4:56 PM ",
+        "IssueUpdatedOn": " 06/Jan/19 4:33 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-3617",
+        "Status": "Backlog",
+        "Summary": "[BI] Patient Info dashboards change",
+        "Reporter": "Nawaz Jadavji",
+        "IssueCreatedOn": " 25/Jul/18 4:17 PM ",
+        "IssueUpdatedOn": " 15/Jan/19 3:57 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-3449",
+        "Status": "Backlog",
+        "Summary": "CHS Reports",
+        "Reporter": "Lisa Griffin",
+        "IssueCreatedOn": " 17/May/18 8:37 AM ",
+        "IssueUpdatedOn": " 18/Dec/18 9:00 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-3334",
+        "Status": "Backlog",
+        "Summary": "[Customer] Add \"Other Cardiac Events\" to Tableau to view claims outside of HF",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 05/Apr/18 7:59 PM ",
+        "IssueUpdatedOn": " 24/Apr/18 9:39 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-3165",
+        "Status": "Backlog",
+        "Summary": "BCBSM and BCN - Updating Patient Satisfaction Survey Questions",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 01/Feb/18 6:08 PM ",
+        "IssueUpdatedOn": " 15/May/19 11:04 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-3164",
+        "Status": "Backlog",
+        "Summary": "[NAMM] Adjust Satisfaction Survey report for Spanish surveys",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": " 01/Feb/18 2:16 PM ",
+        "IssueUpdatedOn": " 15/May/19 11:17 AM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-3003",
+        "Status": "Backlog",
+        "Summary": "[BI] Create BI JIRA Ticket process flow diagram",
+        "Reporter": "Michael Kleban",
+        "IssueCreatedOn": " 21/Nov/17 6:52 PM ",
+        "IssueUpdatedOn": " 27/Nov/17 9:18 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-2983",
+        "Status": "Backlog",
+        "Summary": "[clinical] COPD adherence",
+        "Reporter": "Johanna Georgilas",
+        "IssueCreatedOn": " 13/Nov/17 5:12 PM ",
+        "IssueUpdatedOn": " 05/Feb/18 3:36 PM ",
+        "RefreshDate": "01/10/20 14:06:59"
+    },
+    {
+        "Key": "BISD-4619",
+        "Status": "Open",
+        "Summary": "[AM] Daily System Monitoring (IVR)",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": "09/Jan/20 10:01 AM",
+        "IssueUpdatedOn": "09/Jan/20 11:10 AM",
+        "RefreshDate": "01/10/20 14:09:35"
+    },
+    {
+        "Key": "BISD-4618",
+        "Status": "Open",
+        "Summary": "Reports Not Going Out",
+        "Reporter": "Hengqiao Zhao",
+        "IssueCreatedOn": "09/Jan/20 9:36 AM",
+        "IssueUpdatedOn": "09/Jan/20 11:10 AM",
+        "RefreshDate": "01/10/20 14:09:35"
+    },
+    {
+        "Key": "BISD-4616",
+        "Status": "Triage",
+        "Summary": "Fwd: Tableau VA Disenrollments data",
+        "Reporter": "Dale Paustian",
+        "IssueCreatedOn": "08/Jan/20 11:47 PM",
+        "IssueUpdatedOn": "09/Jan/20 11:06 AM",
+        "RefreshDate": "01/10/20 14:09:35"
+    },
+    {
+        "Key": "BISD-4615",
+        "Status": "Triage",
+        "Summary": "Fwd: Tableau VA census totals discrepancy for 1/6 & 1/7",
+        "Reporter": "Dale Paustian",
+        "IssueCreatedOn": "08/Jan/20 11:46 PM",
+        "IssueUpdatedOn": "09/Jan/20 11:06 AM",
+        "RefreshDate": "01/10/20 14:09:35"
+    },
+    {
+        "Key": "BISD-4613",
+        "Status": "Triage",
+        "Summary": "[Customer] evicore - add Medication Adherence - Tableau Productivity Report",
+        "Reporter": "Customer Relations",
+        "IssueCreatedOn": "08/Jan/20 3:36 PM",
+        "IssueUpdatedOn": "09/Jan/20 11:09 AM",
+        "RefreshDate": "01/10/20 14:09:35"
+    },
+    {
+        "Key": "BISD-4603",
+        "Status": "In Progress",
+        "Summary": "[Customer] Geisinger Report Request - add MRN/Patient ID to Disenrollment Report",
+        "Reporter": "Keith Schieler",
+        "IssueCreatedOn": "06/Jan/20 9:07 AM",
+        "IssueUpdatedOn": "09/Jan/20 11:03 AM",
+        "RefreshDate": "01/10/20 14:09:35"
+    },
+    {
+        "Key": "BISD-4586",
+        "Status": "Resolved",
+        "Summary": "[AM] NAMM HTN and Diabetes Analysis - Due December 27",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": "19/Dec/19 1:10 PM",
+        "IssueUpdatedOn": "09/Jan/20 5:11 PM",
+        "RefreshDate": "01/10/20 14:09:35"
+    },
+    {
+        "Key": "BISD-4552",
+        "Status": "Resolved",
+        "Summary": "[Customer] INTERNAL NAMM Census Dashboard - Add # Patients by PCP",
+        "Reporter": "Mary Hargadine",
+        "IssueCreatedOn": "04/Dec/19 12:58 PM",
+        "IssueUpdatedOn": "09/Jan/20 1:09 PM",
+        "RefreshDate": "01/10/20 14:09:35"
+    }
+]
