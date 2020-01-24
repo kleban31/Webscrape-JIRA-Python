@@ -1,5 +1,5 @@
 
-cd C:\Users\Michael Kleban\Documents\PY4e\JIRAScrape-env\Scripts
+cd JIRA_Webscrape
 
 call activate
 
