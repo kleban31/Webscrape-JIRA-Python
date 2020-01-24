@@ -7,10 +7,9 @@ import json
 from selenium import webdriver
 from datetime import datetime
 
+vxml=BeautifulSoup('Variables.xml')
 
-url = 'https://jira.amchealth.com/login.jsp'
-# NewURL = 'C:\\Users\\Michael Kleban\\Downloads\\Jira 2020-01-10T13_20_50-0500.html'
-NewURL = 'https://jira.amchealth.com/issues/?jql=project%20%3D%20bisd%20AND%20updated%20%3E%20startOfDay(-1)%20%20and%20updated%20%3C%20startOfDay()%20'
+url = ''
 
 ########################
 UseDriver = "true"
