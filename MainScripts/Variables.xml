@@ -3,7 +3,7 @@
     https://jira.xyz.com/login.jsp
   </LoginURL>
   <SearchURL>
-    WWW.SEARCHURL.com
+    https://jira.xyz.com/searchpage
   </SearchURL>
   <user>
     username
